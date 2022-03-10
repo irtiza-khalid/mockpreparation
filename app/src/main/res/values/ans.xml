@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string-array name="ans">
+        <item> Android Powering your phone, tablet, watch, TV and car. When a device goes from just working to actually making life easier, Android is behind it.</item>
+        <item>Padding provides the space between the border and the content of an element. </item>
+        <item>Margin sizes are defined as other dimensions, preferably in density-independent points (dp). </item>
+        <item>The Android SDK provides you the API libraries and developer tools necessary to build, test, and debug apps for Android. </item>
+        <item>Logcat is a command-line tool that dumps a log of system messages, including stack traces when the device throws an error and messages that you have written from your app with the Log class </item>
+        <item>The Android Manifest is an XML file which contains important metadata about the Android app.  </item>
+        <item>Android Mobile Development Programming An intent is to perform an action on the screen. </item>
+        <item>Android Explicit intent specifies the component to be invoked from activity. </item>
+        <item>Using implicit Intent, component can’t be specifying. An action to be performed is declared by implicit intent.</item>
+        <item>Single frame fragments are using for hand hold devices like mobiles, here we can show only one fragment as a view. </item>
+    </string-array>
+
+</resources>

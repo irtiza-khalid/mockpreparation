@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mock Preparation</string>
+    <string-array name="ques">
+        <item>what is android? </item>
+        <item>what is padding? </item>
+        <item>what is margin? </item>
+        <item>what is android sdk? </item>
+        <item>what is logcat? </item>
+        <item>what is AndroidManifest? </item>
+        <item>what is intent? </item>
+        <item>what is explicit intent? </item>
+        <item>what is implicit intent? </item>
+        <item>what is fragments? </item>
+
+    </string-array>
+</resources>
